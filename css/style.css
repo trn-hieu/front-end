@@ -311,7 +311,6 @@ body {
 }
 .banner-top {
   position: relative;
-  z-index: -1;
 }
 .banner-top .main-pic {
   background-image: url(../../img/main-pic.png);
